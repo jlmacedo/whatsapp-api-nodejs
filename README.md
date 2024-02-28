@@ -7,9 +7,9 @@ Thank you once again for being a part of this journey. Keep building amazing thi
 
 Best regards,
 
-@salman0ansari 
-- mailto:salman0ansariii@gmail.com
-- https://telegram.dog/salman0ansari
+@jlmacedo7 
+- mailto:jlmacedo89@gmail.com
+- https://telegram.dog/jlmp7
 
 
 
@@ -21,21 +21,17 @@ Best regards,
 <a href="#"><img title="skynet" src="https://img.shields.io/badge/whatsapp api nodejs Multi Device-black?style=for-the-badge" alt=""></a>
 </p>
 <p>
-<a href="https://github.com/salman0ansari"><img title="Author" src="https://img.shields.io/badge/Author-Mohd Salman Ansari-black.svg?style=for-the-badge&logo=github" alt=""></a>
+<a href="https://github.com/jlmacedo"><img title="Author" src="https://img.shields.io/badge/Author-Mohd Salman Ansari-black.svg?style=for-the-badge&logo=github" alt=""></a>
 </p>
-<a href="https://github.com/salman0ansari?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salman0ansari?color=black&style=flat-square" alt=""></a>
-<a href="https://github.com/salman0ansari/whatsapp-api-nodejs/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/salman0ansari/whatsapp-api-nodejs?color=black&style=flat-square" alt=""></a>
-<a href="https://github.com/salman0ansari/whatsapp-api-nodejs/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salman0ansari/whatsapp-api-nodejs?color=black&style=flat-square" alt=""></a>
-<a href="https://github.com/salman0ansari/whatsapp-api-nodejs/issues"><img title="Issues" src="https://img.shields.io/github/issues/salman0ansari/whatsapp-api-nodejs?color=black&style=flat-square" alt=""></a>
+<a href="https://github.com/jlmacedo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/jlmacedo?color=black&style=flat-square" alt=""></a>
+<a href="https://github.com/jlmacedo/whatsapp-api-nodejs/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/jlmacedo/whatsapp-api-nodejs?color=black&style=flat-square" alt=""></a>
+<a href="https://github.com/jlmacedo/whatsapp-api-nodejs/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jlmacedo/whatsapp-api-nodejs?color=black&style=flat-square" alt=""></a>
+<a href="https://github.com/jlmacedo/whatsapp-api-nodejs/issues"><img title="Issues" src="https://img.shields.io/github/issues/jlmacedo/whatsapp-api-nodejs?color=black&style=flat-square" alt=""></a>
 <p>
 
-<a href="http://github.com/salman0ansari/whatsapp-api-nodejs"><img title="Hits" src="http://hits.dwyl.com/salman0ansari/whatsapp-api-nodejs.svg?style=flat-square"></a>
-<br>
-<a href="https://t.me/salman0ansari">
+
+<a href="https://t.me/jlmp7">
 <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-<a href="https://join.skype.com/invite/rI5pLf9YIvTA">
-<img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
 </a>
 <br>
 
