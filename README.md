@@ -1,9 +1,6 @@
-# Archive Notice 🔒
-After three years, I've decided to archive this open-source WhatsApp API project. Your support and contributions have been incredible!
+🔒 I started support this code, because it is amazing, and it's helping some people to create a grate services.
 
-While I'm no longer actively maintaining this project, I've been working on something new and exciting. It's not open-source, but it's a powerful API that provides advanced features for those who need them. If you're interested in exploring this, feel free to reach out for more information.
-
-Thank you once again for being a part of this journey. Keep building amazing things with technology!
+Help me to keep this code working!
 
 Best regards,
 
